@@ -4,7 +4,7 @@ finder metadata to Adobe metadata translator
 translate finder metadata to xml/exif
 
 
-### alpha version:
+alpha version:
 ------------
 first working prototype, no clean up, no tests, no safety!
 
@@ -12,7 +12,7 @@ Use at your own risk, may corrupt data!
 
 used on mac os 10.9.5
 
-
+------------
 ### tags_add_2_keywords_noduplicates: 
 
 adds finderTags to existing Adobe "keywords" without adding duplicates
