@@ -11,12 +11,6 @@ Use at your own risk, may corrupt data!
 used on mac os 10.9.5
 
 
-# additional software
-you need to Install Tag from https://github.com/jdberry/tag/ 
-and also install ExifTool from http://www.sno.phy.queensu.ca/~phil/exiftool/. 
-
-
-
 # tags_add_2_keywords_noduplicates: 
 adds finderTags to existing Adobe "keywords" without adding duplicates
 
@@ -25,7 +19,9 @@ adds finderTags to existing Adobe "keywords" without adding duplicates
 overwrites the Adobe description with the finder/spotlight comment
 
 
-
+# additional software
+you need to Install Tag from https://github.com/jdberry/tag/ 
+and also install ExifTool from http://www.sno.phy.queensu.ca/~phil/exiftool/. 
 
 
 # credits
