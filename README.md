@@ -26,7 +26,7 @@ and also install ExifTool from http://www.sno.phy.queensu.ca/~phil/exiftool/.
 
 # credits
 
-Based on an answer question/ work from Bruce Atkinson and damienfrancois http://stackoverflow.com/questions/30667174/bash-script-that-exports-apple-tags-mavericks-tags-to-iptc-keywords-metadata/42581865#42581865
+Based on an answer/question/work from Bruce Atkinson and damienfrancois http://stackoverflow.com/questions/30667174/bash-script-that-exports-apple-tags-mavericks-tags-to-iptc-keywords-metadata/42581865#42581865
 
 and additional information by heim dutt
 https://techknowmore.wordpress.com/2014/11/20/applescript-get-file-information-as-shown-in-get-info/
