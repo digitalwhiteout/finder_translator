@@ -10,5 +10,7 @@ via exiftools and tags
 
 # alpha version:
 
-first working prototype, no clean up, no tests, no safety
+first working prototype, no clean up, no tests, no safety!
+
+Use at your own risk, may corrupt data!
 
