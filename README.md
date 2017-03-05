@@ -10,5 +10,5 @@ via exiftools and tags
 
 # alpha version:
 
-first working prototype, no clean up, no tests, 
+first working prototype, no clean up, no tests, no safety
 
