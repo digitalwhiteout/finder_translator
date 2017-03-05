@@ -7,6 +7,16 @@ via automator / shell script
 via exiftools and tags
 
 
+tags_add_2_keywords_noduplicates: adds finderTags to existing Adobe "keywords" without adding duplicates
+
+comment_2overwrite_description: overwrites the Adobe description with the finder/spotlight comment
+
+
+feel free to also improve the Experimental scripts:
+
+comment_add_2_description: currently adding whitespace and duplicates with every run
+
+wherefrom_2_copyright_info_url: only adding the first character (
 
 # alpha version:
 
