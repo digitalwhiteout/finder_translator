@@ -6,6 +6,8 @@ via automator / shell script
 
 via exiftools and tags
 
+
+
 alpha version:
 
 first working prototype, no clean up, no tests, 
