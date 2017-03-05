@@ -1,8 +1,6 @@
 # finder metadata to Adobe metadata translator 
 
-translate finder metadata to xml/exif 
-via automator + shell script 
-via exiftools and tags
+translate finder metadata to xml/exif
 
 
 # alpha version:
