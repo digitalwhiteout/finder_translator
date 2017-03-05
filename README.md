@@ -8,7 +8,7 @@ via exiftools and tags
 
 
 
-alpha version:
+# alpha version:
 
 first working prototype, no clean up, no tests, 
 
