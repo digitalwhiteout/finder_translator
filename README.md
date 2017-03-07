@@ -4,9 +4,9 @@ finder metadata to Adobe metadata translator
 translate finder metadata to xml/exif
 
 
-alpha version:
+beta version:
 ------------
-first working prototype, no clean up, no tests, no safety!
+prototype, fully documented, partly tested, no safety!
 
 Use at your own risk, may corrupt data!
 
