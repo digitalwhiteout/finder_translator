@@ -6,7 +6,7 @@ translate finder metadata to xml/exif
 
 beta version:
 ------------
-prototype, fully documented, partly tested,no safety!
+prototype, fully documented, partly tested, no safety!
 
 Use at your own risk, may corrupt data!
 
